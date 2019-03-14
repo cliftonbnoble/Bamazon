@@ -8,11 +8,14 @@ Bamazon is an Amazon style store using mySql and Node.  Customers can shop using
 ### Usage examples
 
 ` Will return:
-* 
+* Data from bamazon_db
+    Will return Item #, Product Name, Price, Department, Quantity
+* Users can choose to buy an item from the list and if there is insufficient quantity it will alert.
+* In the manager file users can look for low inventory, add a product, or add quantity.
 
 ### Video Demonstration
   
-[click here for a demo](http),
+[click here for a demo](https://drive.google.com/file/d/15Mp-hWdXjjwtseOM3RYFv08l880PznqM/view?usp=sharing),
 
 ### Bonus
 
